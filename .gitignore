@@ -1,0 +1,19 @@
+# Ignorar archivos de compilación
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignorar archivos de configuración de IDE
+.vscode/
+.idea/
+*.iml
+
+# Ignorar directorios de dependencias
+/target/
+/bin/
+/out/
+
+# Ignorar configuraciones de sistemas operativos
+.DS_Store
+Thumbs.db
